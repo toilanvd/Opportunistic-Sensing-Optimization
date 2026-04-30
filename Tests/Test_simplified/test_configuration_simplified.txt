@@ -1,4 +1,6 @@
-Dòng đầu gồm 3 số T1, T2, R
-Dòng thứ hai là số tuyến xe N
-Sau đó là các tuyến xe, mỗi tuyến gồm dòng đầu là số điểm gấp khúc, sau đó là tọa độ các điểm gấp khúc.
-Cuối cùng là 1 số C: số ô quan trọng. Theo sau là tọa độ góc trái dưới của C ô quan trọng đó.
+The first line contains three numbers: p, q, and r.
+The second line contains the number of bus routes, n.
+Then come the bus routes. For each route:
+- The first line specifies the number of vertices (inflection points).
+- The following lines provide the coordinates of these vertices.
+The last line contains an integer c, representing the number of important cells, followed by the bottom-left coordinates of those c cells.

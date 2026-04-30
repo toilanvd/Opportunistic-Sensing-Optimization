@@ -1,4 +1,0 @@
-Dòng đầu gồm 3 số T1, T2, R
-Dòng thứ hai là số tuyến xe N
-Sau đó là các tuyến xe, mỗi tuyến gồm dòng đầu là tổng số điểm gấp khúc của cả 2 path, sau đó là số điểm gấp khúc của từng path và tọa độ các điểm gấp khúc.
-Cuối cùng là 1 số C: số ô quan trọng. Theo sau là tọa độ góc trái dưới của C ô quan trọng đó.
