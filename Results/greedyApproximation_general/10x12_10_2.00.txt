@@ -1,0 +1,603 @@
+T1 = 10, T2 = 12, R = 2.000, M = 1, k = 1, delta = 0: upbOPT = 6, res = 6 | Eff: 100.000, minEff: 100.000 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 2, k = 1, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 100.000 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 3, k = 1, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 100.000 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 4, k = 1, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 100.000 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 5, k = 1, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 100.000 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 6, k = 1, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 100.000 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 7, k = 1, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 100.000 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 8, k = 1, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 100.000 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 9, k = 1, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 100.000 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 10, k = 1, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 100.000 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 11, k = 1, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 100.000 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 12, k = 1, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 100.000 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 13, k = 1, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 100.000 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 14, k = 1, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 100.000 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 15, k = 1, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 100.000 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 16, k = 1, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 100.000 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 17, k = 1, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 100.000 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 18, k = 1, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 100.000 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 19, k = 1, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 100.000 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 20, k = 1, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 100.000 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 21, k = 1, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 100.000 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 22, k = 1, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 100.000 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 23, k = 1, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 100.000 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 24, k = 1, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 100.000 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 25, k = 1, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 100.000 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 26, k = 1, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 100.000 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 27, k = 1, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 100.000 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 28, k = 1, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 100.000 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 29, k = 1, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 100.000 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 30, k = 1, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 100.000 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 31, k = 1, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 100.000 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 32, k = 1, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 100.000 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 33, k = 1, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 100.000 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 34, k = 1, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 100.000 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 35, k = 1, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 100.000 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 36, k = 1, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 100.000 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 37, k = 1, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 100.000 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 38, k = 1, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 100.000 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 39, k = 1, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 100.000 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 40, k = 1, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 100.000 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 41, k = 1, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 100.000 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 42, k = 1, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 100.000 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 43, k = 1, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 100.000 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 44, k = 1, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 100.000 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 45, k = 1, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 100.000 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 46, k = 1, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 100.000 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 47, k = 1, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 100.000 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 48, k = 1, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 100.000 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 49, k = 1, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 100.000 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 50, k = 1, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 100.000 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 51, k = 1, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 100.000 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 52, k = 1, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 100.000 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 53, k = 1, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 100.000 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 54, k = 1, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 100.000 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 55, k = 1, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 100.000 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 56, k = 1, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 100.000 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 57, k = 1, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 100.000 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 58, k = 1, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 100.000 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 59, k = 1, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 100.000 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 60, k = 1, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 100.000 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 1, k = 2, delta = 0: upbOPT = 9, res = 8 | Eff: 88.889, minEff: 88.889 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 2, k = 2, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 3, k = 2, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 4, k = 2, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 5, k = 2, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 6, k = 2, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 7, k = 2, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 8, k = 2, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 9, k = 2, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 10, k = 2, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 11, k = 2, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 12, k = 2, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 13, k = 2, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 14, k = 2, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 15, k = 2, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 16, k = 2, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 17, k = 2, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 18, k = 2, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 19, k = 2, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 20, k = 2, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 21, k = 2, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 22, k = 2, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 23, k = 2, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 24, k = 2, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 25, k = 2, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 26, k = 2, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 27, k = 2, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 28, k = 2, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 29, k = 2, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 30, k = 2, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 31, k = 2, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 32, k = 2, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 33, k = 2, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 34, k = 2, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 35, k = 2, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 36, k = 2, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 37, k = 2, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 38, k = 2, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 39, k = 2, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 40, k = 2, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 41, k = 2, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 42, k = 2, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 43, k = 2, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 44, k = 2, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 45, k = 2, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 46, k = 2, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 47, k = 2, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 48, k = 2, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 49, k = 2, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 50, k = 2, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 51, k = 2, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 52, k = 2, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 53, k = 2, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 54, k = 2, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 55, k = 2, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 56, k = 2, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 57, k = 2, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 58, k = 2, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 59, k = 2, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 60, k = 2, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 1, k = 3, delta = 0: upbOPT = 9, res = 8 | Eff: 88.889, minEff: 88.889 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 2, k = 3, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 3, k = 3, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 4, k = 3, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 5, k = 3, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 6, k = 3, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 7, k = 3, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 8, k = 3, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 9, k = 3, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 10, k = 3, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 11, k = 3, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 12, k = 3, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 13, k = 3, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 14, k = 3, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 15, k = 3, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 16, k = 3, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 17, k = 3, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 18, k = 3, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 19, k = 3, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 20, k = 3, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 21, k = 3, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 22, k = 3, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 23, k = 3, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 24, k = 3, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 25, k = 3, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 26, k = 3, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 27, k = 3, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 28, k = 3, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 29, k = 3, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 30, k = 3, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 31, k = 3, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 32, k = 3, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 33, k = 3, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 34, k = 3, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 35, k = 3, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 36, k = 3, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 37, k = 3, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 38, k = 3, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 39, k = 3, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 40, k = 3, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 41, k = 3, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 42, k = 3, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 43, k = 3, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 44, k = 3, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 45, k = 3, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 46, k = 3, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 47, k = 3, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 48, k = 3, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 49, k = 3, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 50, k = 3, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 51, k = 3, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 52, k = 3, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 53, k = 3, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 54, k = 3, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 55, k = 3, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 56, k = 3, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 57, k = 3, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 58, k = 3, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 59, k = 3, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 60, k = 3, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 1, k = 4, delta = 0: upbOPT = 9, res = 8 | Eff: 88.889, minEff: 88.889 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 2, k = 4, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 3, k = 4, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 4, k = 4, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 5, k = 4, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 6, k = 4, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 7, k = 4, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 8, k = 4, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 9, k = 4, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 10, k = 4, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 11, k = 4, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 12, k = 4, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 13, k = 4, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 14, k = 4, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 15, k = 4, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 16, k = 4, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 17, k = 4, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 18, k = 4, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 19, k = 4, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 20, k = 4, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 21, k = 4, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 22, k = 4, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 23, k = 4, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 24, k = 4, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 25, k = 4, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 26, k = 4, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 27, k = 4, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 28, k = 4, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 29, k = 4, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 30, k = 4, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 31, k = 4, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 32, k = 4, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 33, k = 4, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 34, k = 4, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 35, k = 4, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 36, k = 4, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 37, k = 4, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 38, k = 4, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 39, k = 4, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 40, k = 4, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 41, k = 4, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 42, k = 4, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 43, k = 4, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 44, k = 4, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 45, k = 4, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 46, k = 4, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 47, k = 4, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 48, k = 4, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 49, k = 4, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 50, k = 4, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 51, k = 4, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 52, k = 4, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 53, k = 4, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 54, k = 4, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 55, k = 4, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 56, k = 4, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 57, k = 4, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 58, k = 4, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 59, k = 4, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 60, k = 4, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 1, k = 5, delta = 0: upbOPT = 9, res = 8 | Eff: 88.889, minEff: 88.889 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 2, k = 5, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 3, k = 5, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 4, k = 5, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 5, k = 5, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 6, k = 5, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 7, k = 5, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 8, k = 5, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 9, k = 5, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 10, k = 5, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 11, k = 5, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 12, k = 5, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 13, k = 5, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 14, k = 5, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 15, k = 5, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 16, k = 5, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 17, k = 5, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 18, k = 5, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 19, k = 5, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 20, k = 5, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 21, k = 5, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 22, k = 5, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 23, k = 5, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 24, k = 5, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 25, k = 5, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 26, k = 5, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 27, k = 5, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 28, k = 5, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 29, k = 5, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 30, k = 5, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 31, k = 5, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 32, k = 5, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 33, k = 5, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 34, k = 5, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 35, k = 5, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 36, k = 5, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 37, k = 5, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 38, k = 5, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 39, k = 5, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 40, k = 5, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 41, k = 5, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 42, k = 5, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 43, k = 5, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 44, k = 5, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 45, k = 5, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 46, k = 5, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 47, k = 5, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 48, k = 5, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 49, k = 5, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 50, k = 5, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 51, k = 5, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 52, k = 5, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 53, k = 5, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 54, k = 5, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 55, k = 5, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 56, k = 5, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 57, k = 5, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 58, k = 5, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 59, k = 5, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 60, k = 5, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 1, k = 6, delta = 0: upbOPT = 9, res = 8 | Eff: 88.889, minEff: 88.889 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 2, k = 6, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 3, k = 6, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 4, k = 6, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 5, k = 6, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 6, k = 6, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 7, k = 6, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 8, k = 6, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 9, k = 6, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 10, k = 6, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 11, k = 6, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 12, k = 6, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 13, k = 6, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 14, k = 6, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 15, k = 6, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 16, k = 6, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 17, k = 6, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 18, k = 6, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 19, k = 6, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 20, k = 6, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 21, k = 6, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 22, k = 6, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 23, k = 6, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 24, k = 6, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 25, k = 6, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 26, k = 6, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 27, k = 6, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 28, k = 6, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 29, k = 6, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 30, k = 6, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 31, k = 6, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 32, k = 6, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 33, k = 6, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 34, k = 6, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 35, k = 6, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 36, k = 6, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 37, k = 6, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 38, k = 6, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 39, k = 6, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 40, k = 6, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 41, k = 6, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 42, k = 6, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 43, k = 6, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 44, k = 6, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 45, k = 6, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 46, k = 6, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 47, k = 6, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 48, k = 6, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 49, k = 6, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 50, k = 6, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 51, k = 6, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 52, k = 6, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 53, k = 6, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 54, k = 6, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 55, k = 6, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 56, k = 6, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 57, k = 6, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 58, k = 6, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 59, k = 6, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 60, k = 6, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 1, k = 7, delta = 0: upbOPT = 9, res = 8 | Eff: 88.889, minEff: 88.889 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 2, k = 7, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 3, k = 7, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 4, k = 7, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 5, k = 7, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 6, k = 7, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 7, k = 7, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 8, k = 7, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 9, k = 7, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 10, k = 7, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 11, k = 7, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 12, k = 7, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 13, k = 7, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 14, k = 7, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 15, k = 7, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 16, k = 7, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 17, k = 7, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 18, k = 7, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 19, k = 7, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 20, k = 7, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 21, k = 7, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 22, k = 7, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 23, k = 7, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 24, k = 7, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 25, k = 7, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 26, k = 7, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 27, k = 7, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 28, k = 7, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 29, k = 7, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 30, k = 7, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 31, k = 7, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 32, k = 7, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 33, k = 7, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 34, k = 7, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 35, k = 7, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 36, k = 7, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 37, k = 7, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 38, k = 7, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 39, k = 7, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 40, k = 7, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 41, k = 7, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 42, k = 7, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 43, k = 7, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 44, k = 7, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 45, k = 7, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 46, k = 7, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 47, k = 7, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 48, k = 7, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 49, k = 7, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 50, k = 7, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 51, k = 7, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 52, k = 7, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 53, k = 7, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 54, k = 7, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 55, k = 7, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 56, k = 7, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 57, k = 7, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 58, k = 7, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 59, k = 7, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 60, k = 7, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 1, k = 8, delta = 0: upbOPT = 9, res = 8 | Eff: 88.889, minEff: 88.889 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 2, k = 8, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 3, k = 8, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 4, k = 8, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 5, k = 8, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 6, k = 8, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 7, k = 8, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 8, k = 8, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 9, k = 8, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 10, k = 8, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 11, k = 8, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 12, k = 8, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 13, k = 8, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 14, k = 8, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 15, k = 8, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 16, k = 8, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 17, k = 8, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 18, k = 8, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 19, k = 8, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 20, k = 8, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 21, k = 8, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 22, k = 8, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 23, k = 8, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 24, k = 8, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 25, k = 8, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 26, k = 8, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 27, k = 8, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 28, k = 8, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 29, k = 8, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 30, k = 8, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 31, k = 8, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 32, k = 8, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 33, k = 8, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 34, k = 8, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 35, k = 8, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 36, k = 8, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 37, k = 8, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 38, k = 8, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 39, k = 8, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 40, k = 8, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 41, k = 8, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 42, k = 8, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 43, k = 8, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 44, k = 8, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 45, k = 8, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 46, k = 8, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 47, k = 8, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 48, k = 8, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 49, k = 8, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 50, k = 8, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 51, k = 8, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 52, k = 8, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 53, k = 8, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 54, k = 8, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 55, k = 8, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 56, k = 8, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 57, k = 8, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 58, k = 8, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 59, k = 8, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 60, k = 8, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 1, k = 9, delta = 0: upbOPT = 9, res = 8 | Eff: 88.889, minEff: 88.889 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 2, k = 9, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 3, k = 9, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 4, k = 9, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 5, k = 9, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 6, k = 9, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 7, k = 9, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 8, k = 9, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 9, k = 9, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 10, k = 9, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 11, k = 9, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 12, k = 9, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 13, k = 9, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 14, k = 9, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 15, k = 9, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 16, k = 9, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 17, k = 9, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 18, k = 9, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 19, k = 9, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 20, k = 9, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 21, k = 9, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 22, k = 9, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 23, k = 9, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 24, k = 9, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 25, k = 9, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 26, k = 9, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 27, k = 9, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 28, k = 9, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 29, k = 9, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 30, k = 9, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 31, k = 9, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 32, k = 9, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 33, k = 9, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 34, k = 9, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 35, k = 9, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 36, k = 9, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 37, k = 9, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 38, k = 9, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 39, k = 9, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 40, k = 9, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 41, k = 9, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 42, k = 9, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 43, k = 9, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 44, k = 9, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 45, k = 9, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 46, k = 9, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 47, k = 9, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 48, k = 9, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 49, k = 9, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 50, k = 9, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 51, k = 9, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 52, k = 9, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 53, k = 9, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 54, k = 9, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 55, k = 9, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 56, k = 9, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 57, k = 9, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 58, k = 9, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 59, k = 9, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 60, k = 9, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 1, k = 10, delta = 0: upbOPT = 9, res = 8 | Eff: 88.889, minEff: 88.889 (***), time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 2, k = 10, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 3, k = 10, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 4, k = 10, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 5, k = 10, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 6, k = 10, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 7, k = 10, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 8, k = 10, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 9, k = 10, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 10, k = 10, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 11, k = 10, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 12, k = 10, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 13, k = 10, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 14, k = 10, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 15, k = 10, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 16, k = 10, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 17, k = 10, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 18, k = 10, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 19, k = 10, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 20, k = 10, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 21, k = 10, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 22, k = 10, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 23, k = 10, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 24, k = 10, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 25, k = 10, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 26, k = 10, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 27, k = 10, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 28, k = 10, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 29, k = 10, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 30, k = 10, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 31, k = 10, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 32, k = 10, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 33, k = 10, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 34, k = 10, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 35, k = 10, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 36, k = 10, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 37, k = 10, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 38, k = 10, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 39, k = 10, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 40, k = 10, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 41, k = 10, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 42, k = 10, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 43, k = 10, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 44, k = 10, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 45, k = 10, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 46, k = 10, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 47, k = 10, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 48, k = 10, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 49, k = 10, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 50, k = 10, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 51, k = 10, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 52, k = 10, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 53, k = 10, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 54, k = 10, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 55, k = 10, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 56, k = 10, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.005 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 57, k = 10, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 58, k = 10, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 59, k = 10, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+T1 = 10, T2 = 12, R = 2.000, M = 60, k = 10, delta = 0: upbOPT = 9, res = 9 | Eff: 100.000, minEff: 88.889, time: 0.004 seconds
+Minimum efficiency: 88.889%
+Time taken: 2.479 seconds
+Avg time per (M, k): 0.004 seconds
