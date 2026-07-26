@@ -1,0 +1,697 @@
+[input] p=10 q=12 r=0.5 n=60 c=10   scenario=simplified
+[geometry] candidate positions: 137 raw -> 59 kept   (0.01s)
+[geometry] reachable critical squares: 8/10   (unreachable: 2)
+[geometry] Section 5.1 single-interval assumption: holds (71 observable route/square pairs)
+
+  m   k budget | greedy  exact   gap% |   eff% |    status  time(s)
+------------------------------------------------------------------------------
+  2   2      4 |      6      6   0.00 | 100.00 |   OPTIMAL     0.02
+------------------------------------------------------------------------------
+greedy optimal in 1/1 cases | min true efficiency 100.00% | mean 100.00%
+[total wall time] 0.06s
+************************************************************** 
+[input] p=10 q=12 r=1.0 n=60 c=10   scenario=simplified
+[geometry] candidate positions: 242 raw -> 91 kept   (0.01s)
+[geometry] reachable critical squares: 10/10   (unreachable: 0)
+[geometry] Section 5.1 single-interval assumption: holds (135 observable route/square pairs)
+
+  m   k budget | greedy  exact   gap% |   eff% |    status  time(s)
+------------------------------------------------------------------------------
+  2   1      2 |      8      9  11.11 |  88.89 |   OPTIMAL     0.02
+------------------------------------------------------------------------------
+greedy optimal in 0/1 cases | min true efficiency 88.89% | mean 88.89%
+[total wall time] 0.05s
+************************************************************** 
+[input] p=10 q=12 r=2.0 n=60 c=10   scenario=simplified
+[geometry] candidate positions: 296 raw -> 81 kept   (0.01s)
+[geometry] reachable critical squares: 10/10   (unreachable: 0)
+[geometry] Section 5.1 single-interval assumption: holds (184 observable route/square pairs)
+
+  m   k budget | greedy  exact   gap% |   eff% |    status  time(s)
+------------------------------------------------------------------------------
+  1   1      2 |      8      8   0.00 | 100.00 |   OPTIMAL     0.02
+------------------------------------------------------------------------------
+greedy optimal in 1/1 cases | min true efficiency 100.00% | mean 100.00%
+[total wall time] 0.07s
+************************************************************** 
+[input] p=10 q=12 r=0.5 n=60 c=20   scenario=simplified
+[geometry] candidate positions: 328 raw -> 126 kept   (0.02s)
+[geometry] reachable critical squares: 19/20   (unreachable: 1)
+[geometry] Section 5.1 single-interval assumption: holds (175 observable route/square pairs)
+
+  m   k budget | greedy  exact   gap% |   eff% |    status  time(s)
+------------------------------------------------------------------------------
+  4   1      2 |     16     17   5.88 |  94.12 |   OPTIMAL     0.02
+------------------------------------------------------------------------------
+greedy optimal in 0/1 cases | min true efficiency 94.12% | mean 94.12%
+[total wall time] 0.08s
+************************************************************** 
+[input] p=10 q=12 r=1.0 n=60 c=20   scenario=simplified
+[geometry] candidate positions: 448 raw -> 139 kept   (0.02s)
+[geometry] reachable critical squares: 19/20   (unreachable: 1)
+[geometry] Section 5.1 single-interval assumption: holds (266 observable route/square pairs)
+
+  m   k budget | greedy  exact   gap% |   eff% |    status  time(s)
+------------------------------------------------------------------------------
+  2   1      2 |     13     13   0.00 | 100.00 |   OPTIMAL     0.02
+------------------------------------------------------------------------------
+greedy optimal in 1/1 cases | min true efficiency 100.00% | mean 100.00%
+[total wall time] 0.09s
+************************************************************** 
+[input] p=10 q=12 r=2.0 n=60 c=20   scenario=simplified
+[geometry] candidate positions: 472 raw -> 118 kept   (0.02s)
+[geometry] reachable critical squares: 20/20   (unreachable: 0)
+[geometry] Section 5.1 single-interval assumption: holds (315 observable route/square pairs)
+
+  m   k budget | greedy  exact   gap% |   eff% |    status  time(s)
+------------------------------------------------------------------------------
+  1   1      2 |     16     16   0.00 | 100.00 |   OPTIMAL     0.01
+------------------------------------------------------------------------------
+greedy optimal in 1/1 cases | min true efficiency 100.00% | mean 100.00%
+[total wall time] 0.09s
+************************************************************** 
+[input] p=10 q=12 r=0.5 n=60 c=25   scenario=simplified
+[geometry] candidate positions: 449 raw -> 171 kept   (0.02s)
+[geometry] reachable critical squares: 25/25   (unreachable: 0)
+[geometry] Section 5.1 single-interval assumption: holds (238 observable route/square pairs)
+
+  m   k budget | greedy  exact   gap% |   eff% |    status  time(s)
+------------------------------------------------------------------------------
+  4   1      2 |     19     19   0.00 | 100.00 |   OPTIMAL     0.02
+------------------------------------------------------------------------------
+greedy optimal in 1/1 cases | min true efficiency 100.00% | mean 100.00%
+[total wall time] 0.09s
+************************************************************** 
+[input] p=10 q=12 r=1.0 n=60 c=25   scenario=simplified
+[geometry] candidate positions: 505 raw -> 169 kept   (0.02s)
+[geometry] reachable critical squares: 22/25   (unreachable: 3)
+[geometry] Section 5.1 single-interval assumption: holds (284 observable route/square pairs)
+
+  m   k budget | greedy  exact   gap% |   eff% |    status  time(s)
+------------------------------------------------------------------------------
+  3   1      2 |     17     17   0.00 | 100.00 |   OPTIMAL     0.04
+------------------------------------------------------------------------------
+greedy optimal in 1/1 cases | min true efficiency 100.00% | mean 100.00%
+[total wall time] 0.12s
+************************************************************** 
+[input] p=10 q=12 r=2.0 n=60 c=25   scenario=simplified
+[geometry] candidate positions: 685 raw -> 182 kept   (0.02s)
+[geometry] reachable critical squares: 24/25   (unreachable: 1)
+[geometry] Section 5.1 single-interval assumption: holds (441 observable route/square pairs)
+
+  m   k budget | greedy  exact   gap% |   eff% |    status  time(s)
+------------------------------------------------------------------------------
+  2   1      2 |     22     22   0.00 | 100.00 |   OPTIMAL     0.05
+------------------------------------------------------------------------------
+greedy optimal in 1/1 cases | min true efficiency 100.00% | mean 100.00%
+[total wall time] 0.15s
+************************************************************** 
+[input] p=10 q=12 r=0.5 n=60 c=50   scenario=simplified
+[geometry] candidate positions: 873 raw -> 330 kept   (0.04s)
+[geometry] reachable critical squares: 45/50   (unreachable: 5)
+[geometry] Section 5.1 single-interval assumption: holds (502 observable route/square pairs)
+
+  m   k budget | greedy  exact   gap% |   eff% |    status  time(s)
+------------------------------------------------------------------------------
+  6   1      2 |     32     33   3.03 |  96.97 |   OPTIMAL     0.06
+------------------------------------------------------------------------------
+greedy optimal in 0/1 cases | min true efficiency 96.97% | mean 96.97%
+[total wall time] 0.21s
+************************************************************** 
+[input] p=25 q=30 r=2.0 n=60 c=10   scenario=simplified
+[geometry] candidate positions: 221 raw -> 98 kept   (0.01s)
+[geometry] reachable critical squares: 10/10   (unreachable: 0)
+[geometry] Section 5.1 single-interval assumption: holds (111 observable route/square pairs)
+
+  m   k budget | greedy  exact   gap% |   eff% |    status  time(s)
+------------------------------------------------------------------------------
+  2   2      4 |      7      8  12.50 |  87.50 |   OPTIMAL     0.01
+------------------------------------------------------------------------------
+greedy optimal in 0/1 cases | min true efficiency 87.50% | mean 87.50%
+[total wall time] 0.05s
+************************************************************** 
+[input] p=25 q=30 r=1.0 n=60 c=25   scenario=simplified
+[geometry] candidate positions: 264 raw -> 103 kept   (0.02s)
+[geometry] reachable critical squares: 21/25   (unreachable: 4)
+[geometry] Section 5.1 single-interval assumption: holds (136 observable route/square pairs)
+
+  m   k budget | greedy  exact   gap% |   eff% |    status  time(s)
+------------------------------------------------------------------------------
+  4   1      2 |     13     13   0.00 | 100.00 |   OPTIMAL     0.02
+------------------------------------------------------------------------------
+greedy optimal in 1/1 cases | min true efficiency 100.00% | mean 100.00%
+[total wall time] 0.10s
+************************************************************** 
+[input] p=25 q=30 r=2.0 n=60 c=25   scenario=simplified
+[geometry] candidate positions: 528 raw -> 170 kept   (0.02s)
+[geometry] reachable critical squares: 25/25   (unreachable: 0)
+[geometry] Section 5.1 single-interval assumption: holds (267 observable route/square pairs)
+
+  m   k budget | greedy  exact   gap% |   eff% |    status  time(s)
+------------------------------------------------------------------------------
+  4   1      2 |     16     17   5.88 |  94.12 |   OPTIMAL     0.02
+------------------------------------------------------------------------------
+greedy optimal in 0/1 cases | min true efficiency 94.12% | mean 94.12%
+[total wall time] 0.10s
+************************************************************** 
+[input] p=25 q=30 r=3.0 n=60 c=25   scenario=simplified
+[geometry] candidate positions: 472 raw -> 171 kept   (0.02s)
+[geometry] reachable critical squares: 21/25   (unreachable: 4)
+[geometry] Section 5.1 single-interval assumption: holds (246 observable route/square pairs)
+
+  m   k budget | greedy  exact   gap% |   eff% |    status  time(s)
+------------------------------------------------------------------------------
+  2   2      4 |     13     14   7.14 |  92.86 |   OPTIMAL     0.03
+------------------------------------------------------------------------------
+greedy optimal in 0/1 cases | min true efficiency 92.86% | mean 92.86%
+[total wall time] 0.10s
+************************************************************** 
+[input] p=25 q=30 r=1.0 n=60 c=50   scenario=simplified
+[geometry] candidate positions: 610 raw -> 235 kept   (0.04s)
+[geometry] reachable critical squares: 44/50   (unreachable: 6)
+[geometry] Section 5.1 single-interval assumption: holds (319 observable route/square pairs)
+
+  m   k budget | greedy  exact   gap% |   eff% |    status  time(s)
+------------------------------------------------------------------------------
+  7   1      2 |     26     28   7.14 |  92.86 |   OPTIMAL     0.06
+------------------------------------------------------------------------------
+greedy optimal in 0/1 cases | min true efficiency 92.86% | mean 92.86%
+[total wall time] 0.17s
+************************************************************** 
+[input] p=25 q=30 r=2.0 n=60 c=50   scenario=simplified
+[geometry] candidate positions: 833 raw -> 260 kept   (0.04s)
+[geometry] reachable critical squares: 45/50   (unreachable: 5)
+[geometry] Section 5.1 single-interval assumption: VIOLATED on 1 pairs (434 observable route/square pairs)
+[warn] the simplified C++ code decides coverage by interval membership, so its results may overstate coverage here.
+
+  m   k budget | greedy  exact   gap% |   eff% |    status  time(s)
+------------------------------------------------------------------------------
+  4   2      4 |     35     37   5.41 |  94.59 |   OPTIMAL     0.07
+------------------------------------------------------------------------------
+greedy optimal in 0/1 cases | min true efficiency 94.59% | mean 94.59%
+[total wall time] 0.20s
+************************************************************** 
+[input] p=25 q=30 r=3.0 n=60 c=50   scenario=simplified
+[geometry] candidate positions: 993 raw -> 260 kept   (0.04s)
+[geometry] reachable critical squares: 49/50   (unreachable: 1)
+[geometry] Section 5.1 single-interval assumption: holds (593 observable route/square pairs)
+
+  m   k budget | greedy  exact   gap% |   eff% |    status  time(s)
+------------------------------------------------------------------------------
+  4   1      2 |     41     41   0.00 | 100.00 |   OPTIMAL     0.03
+------------------------------------------------------------------------------
+greedy optimal in 1/1 cases | min true efficiency 100.00% | mean 100.00%
+[total wall time] 0.18s
+************************************************************** 
+[input] p=25 q=30 r=1.0 n=60 c=100   scenario=simplified
+[geometry] candidate positions: 1310 raw -> 388 kept   (0.09s)
+[geometry] reachable critical squares: 87/100   (unreachable: 13)
+[geometry] Section 5.1 single-interval assumption: holds (694 observable route/square pairs)
+
+  m   k budget | greedy  exact   gap% |   eff% |    status  time(s)
+------------------------------------------------------------------------------
+ 11   1      2 |     61     62   1.61 |  98.39 |   OPTIMAL     0.05
+------------------------------------------------------------------------------
+greedy optimal in 0/1 cases | min true efficiency 98.39% | mean 98.39%
+[total wall time] 0.29s
+************************************************************** 
+[input] p=25 q=30 r=2.0 n=60 c=100   scenario=simplified
+[geometry] candidate positions: 1711 raw -> 418 kept   (0.10s)
+[geometry] reachable critical squares: 90/100   (unreachable: 10)
+[geometry] Section 5.1 single-interval assumption: holds (920 observable route/square pairs)
+
+  m   k budget | greedy  exact   gap% |   eff% |    status  time(s)
+------------------------------------------------------------------------------
+  7   1      2 |     66     70   5.71 |  94.29 |   OPTIMAL     0.10
+------------------------------------------------------------------------------
+greedy optimal in 0/1 cases | min true efficiency 94.29% | mean 94.29%
+[total wall time] 0.39s
+************************************************************** 
+[input] p=25 q=30 r=3.0 n=60 c=100   scenario=simplified
+[geometry] candidate positions: 2048 raw -> 485 kept   (0.11s)
+[geometry] reachable critical squares: 92/100   (unreachable: 8)
+[geometry] Section 5.1 single-interval assumption: holds (1239 observable route/square pairs)
+
+  m   k budget | greedy  exact   gap% |   eff% |    status  time(s)
+------------------------------------------------------------------------------
+  3   2      4 |     72     77   6.49 |  93.51 |   OPTIMAL     0.31
+------------------------------------------------------------------------------
+greedy optimal in 0/1 cases | min true efficiency 93.51% | mean 93.51%
+[total wall time] 0.65s
+************************************************************** 
+[input] p=25 q=30 r=1.0 n=60 c=200   scenario=simplified
+[geometry] candidate positions: 2272 raw -> 716 kept   (0.21s)
+[geometry] reachable critical squares: 176/200   (unreachable: 24)
+[geometry] Section 5.1 single-interval assumption: holds (1282 observable route/square pairs)
+
+  m   k budget | greedy  exact   gap% |   eff% |    status  time(s)
+------------------------------------------------------------------------------
+  5   6     12 |    124    128   3.12 |  96.88 |   OPTIMAL     3.89
+------------------------------------------------------------------------------
+greedy optimal in 0/1 cases | min true efficiency 96.88% | mean 96.88%
+[total wall time] 4.42s
+************************************************************** 
+[input] p=25 q=30 r=2.0 n=60 c=200   scenario=simplified
+[geometry] candidate positions: 3441 raw -> 882 kept   (0.25s)
+[geometry] reachable critical squares: 182/200   (unreachable: 18)
+[geometry] Section 5.1 single-interval assumption: holds (2000 observable route/square pairs)
+
+  m   k budget | greedy  exact   gap% |   eff% |    status  time(s)
+------------------------------------------------------------------------------
+  9   1      2 |    133    140   5.00 |  95.00 |   OPTIMAL     0.16
+------------------------------------------------------------------------------
+greedy optimal in 0/1 cases | min true efficiency 95.00% | mean 95.00%
+[total wall time] 0.81s
+************************************************************** 
+[input] p=25 q=30 r=3.0 n=60 c=200   scenario=simplified
+[geometry] candidate positions: 3928 raw -> 922 kept   (0.27s)
+[geometry] reachable critical squares: 185/200   (unreachable: 15)
+[geometry] Section 5.1 single-interval assumption: holds (2391 observable route/square pairs)
+
+  m   k budget | greedy  exact   gap% |   eff% |    status  time(s)
+------------------------------------------------------------------------------
+  3   2      4 |    138    144   4.17 |  95.83 |   OPTIMAL     3.74
+------------------------------------------------------------------------------
+greedy optimal in 0/1 cases | min true efficiency 95.83% | mean 95.83%
+[total wall time] 4.45s
+************************************************************** 
+[input] p=25 q=30 r=1.0 n=60 c=300   scenario=simplified
+[geometry] candidate positions: 3317 raw -> 1040 kept   (0.36s)
+[geometry] reachable critical squares: 257/300   (unreachable: 43)
+[geometry] Section 5.1 single-interval assumption: holds (1910 observable route/square pairs)
+
+  m   k budget | greedy  exact   gap% |   eff% |    status  time(s)
+------------------------------------------------------------------------------
+  6   5     10 |    194    205   5.37 |  94.63 |   OPTIMAL    44.55
+------------------------------------------------------------------------------
+greedy optimal in 0/1 cases | min true efficiency 94.63% | mean 94.63%
+[total wall time] 45.46s
+************************************************************** 
+[input] p=25 q=30 r=2.0 n=60 c=300   scenario=simplified
+[geometry] candidate positions: 4978 raw -> 1311 kept   (0.45s)
+[geometry] reachable critical squares: 275/300   (unreachable: 25)
+[geometry] Section 5.1 single-interval assumption: holds (2948 observable route/square pairs)
+
+  m   k budget | greedy  exact   gap% |   eff% |    status  time(s)
+------------------------------------------------------------------------------
+  4   4      8 |    207    218   5.05 |  94.95 |   OPTIMAL    11.60
+------------------------------------------------------------------------------
+greedy optimal in 0/1 cases | min true efficiency 94.95% | mean 94.95%
+[total wall time] 12.71s
+************************************************************** 
+[input] p=25 q=30 r=3.0 n=60 c=300   scenario=simplified
+[geometry] candidate positions: 5744 raw -> 1347 kept   (0.50s)
+[geometry] reachable critical squares: 279/300   (unreachable: 21)
+[geometry] Section 5.1 single-interval assumption: holds (3609 observable route/square pairs)
+
+  m   k budget | greedy  exact   gap% |   eff% |    status  time(s)
+------------------------------------------------------------------------------
+  5   1      2 |    200    210   4.76 |  95.24 |   OPTIMAL     0.45
+------------------------------------------------------------------------------
+greedy optimal in 0/1 cases | min true efficiency 95.24% | mean 95.24%
+[total wall time] 1.62s
+************************************************************** 
+[input] p=25 q=30 r=1.0 n=60 c=400   scenario=simplified
+[geometry] candidate positions: 4290 raw -> 1486 kept   (0.55s)
+[geometry] reachable critical squares: 347/400   (unreachable: 53)
+[geometry] Section 5.1 single-interval assumption: holds (2524 observable route/square pairs)
+
+  m   k budget | greedy  exact   gap% |   eff% |    status  time(s)
+------------------------------------------------------------------------------
+  5   9     18 |    246    246   0.00 | 100.00 |   OPTIMAL    93.49
+------------------------------------------------------------------------------
+greedy optimal in 1/1 cases | min true efficiency 100.00% | mean 100.00%
+[total wall time] 95.10s
+************************************************************** 
+[input] p=25 q=30 r=2.0 n=60 c=400   scenario=simplified
+[geometry] candidate positions: 6593 raw -> 1820 kept   (0.71s)
+[geometry] reachable critical squares: 370/400   (unreachable: 30)
+[geometry] Section 5.1 single-interval assumption: holds (3964 observable route/square pairs)
+
+  m   k budget | greedy  exact   gap% |   eff% |    status  time(s)
+------------------------------------------------------------------------------
+  4   4      8 |    273    300   9.00 |  91.00 |   OPTIMAL    19.41
+------------------------------------------------------------------------------
+greedy optimal in 0/1 cases | min true efficiency 91.00% | mean 91.00%
+[total wall time] 21.16s
+************************************************************** 
+[input] p=30 q=36 r=1.0 n=60 c=25   scenario=simplified
+[geometry] candidate positions: 204 raw -> 86 kept   (0.02s)
+[geometry] reachable critical squares: 18/25   (unreachable: 7)
+[geometry] Section 5.1 single-interval assumption: holds (102 observable route/square pairs)
+
+  m   k budget | greedy  exact   gap% |   eff% |    status  time(s)
+------------------------------------------------------------------------------
+  4   2      4 |     12     13   7.69 |  92.31 |   OPTIMAL     0.02
+------------------------------------------------------------------------------
+greedy optimal in 0/1 cases | min true efficiency 92.31% | mean 92.31%
+[total wall time] 0.08s
+************************************************************** 
+[input] p=30 q=36 r=2.0 n=60 c=25   scenario=simplified
+[geometry] candidate positions: 406 raw -> 145 kept   (0.02s)
+[geometry] reachable critical squares: 21/25   (unreachable: 4)
+[geometry] Section 5.1 single-interval assumption: holds (206 observable route/square pairs)
+
+  m   k budget | greedy  exact   gap% |   eff% |    status  time(s)
+------------------------------------------------------------------------------
+  4   1      2 |     15     16   6.25 |  93.75 |   OPTIMAL     0.03
+------------------------------------------------------------------------------
+greedy optimal in 0/1 cases | min true efficiency 93.75% | mean 93.75%
+[total wall time] 0.10s
+************************************************************** 
+[input] p=30 q=36 r=3.0 n=60 c=25   scenario=simplified
+[geometry] candidate positions: 595 raw -> 193 kept   (0.02s)
+[geometry] reachable critical squares: 24/25   (unreachable: 1)
+[geometry] Section 5.1 single-interval assumption: holds (313 observable route/square pairs)
+
+  m   k budget | greedy  exact   gap% |   eff% |    status  time(s)
+------------------------------------------------------------------------------
+  3   1      2 |     16     17   5.88 |  94.12 |   OPTIMAL     0.02
+------------------------------------------------------------------------------
+greedy optimal in 0/1 cases | min true efficiency 94.12% | mean 94.12%
+[total wall time] 0.10s
+************************************************************** 
+[input] p=30 q=36 r=1.0 n=60 c=50   scenario=simplified
+[geometry] candidate positions: 440 raw -> 163 kept   (0.04s)
+[geometry] reachable critical squares: 39/50   (unreachable: 11)
+[geometry] Section 5.1 single-interval assumption: holds (221 observable route/square pairs)
+
+  m   k budget | greedy  exact   gap% |   eff% |    status  time(s)
+------------------------------------------------------------------------------
+  9   1      2 |     30     30   0.00 | 100.00 |   OPTIMAL     0.02
+------------------------------------------------------------------------------
+greedy optimal in 1/1 cases | min true efficiency 100.00% | mean 100.00%
+[total wall time] 0.13s
+************************************************************** 
+[input] p=30 q=36 r=2.0 n=60 c=50   scenario=simplified
+[geometry] candidate positions: 827 raw -> 267 kept   (0.04s)
+[geometry] reachable critical squares: 47/50   (unreachable: 3)
+[geometry] Section 5.1 single-interval assumption: holds (436 observable route/square pairs)
+
+  m   k budget | greedy  exact   gap% |   eff% |    status  time(s)
+------------------------------------------------------------------------------
+  7   1      2 |     35     36   2.78 |  97.22 |   OPTIMAL     0.03
+------------------------------------------------------------------------------
+greedy optimal in 0/1 cases | min true efficiency 97.22% | mean 97.22%
+[total wall time] 0.18s
+************************************************************** 
+[input] p=30 q=36 r=3.0 n=60 c=50   scenario=simplified
+[geometry] candidate positions: 979 raw -> 265 kept   (0.04s)
+[geometry] reachable critical squares: 47/50   (unreachable: 3)
+[geometry] Section 5.1 single-interval assumption: holds (522 observable route/square pairs)
+
+  m   k budget | greedy  exact   gap% |   eff% |    status  time(s)
+------------------------------------------------------------------------------
+  3   4      8 |     36     38   5.26 |  94.74 |   OPTIMAL     0.04
+------------------------------------------------------------------------------
+greedy optimal in 0/1 cases | min true efficiency 94.74% | mean 94.74%
+[total wall time] 0.19s
+************************************************************** 
+[input] p=30 q=36 r=1.0 n=60 c=100   scenario=simplified
+[geometry] candidate positions: 1008 raw -> 322 kept   (0.08s)
+[geometry] reachable critical squares: 84/100   (unreachable: 16)
+[geometry] Section 5.1 single-interval assumption: holds (519 observable route/square pairs)
+
+  m   k budget | greedy  exact   gap% |   eff% |    status  time(s)
+------------------------------------------------------------------------------
+  5   5     10 |     58     59   1.69 |  98.31 |   OPTIMAL     0.03
+------------------------------------------------------------------------------
+greedy optimal in 0/1 cases | min true efficiency 98.31% | mean 98.31%
+[total wall time] 0.26s
+************************************************************** 
+[input] p=30 q=36 r=2.0 n=60 c=100   scenario=simplified
+[geometry] candidate positions: 1613 raw -> 413 kept   (0.10s)
+[geometry] reachable critical squares: 89/100   (unreachable: 11)
+[geometry] Section 5.1 single-interval assumption: holds (858 observable route/square pairs)
+
+  m   k budget | greedy  exact   gap% |   eff% |    status  time(s)
+------------------------------------------------------------------------------
+  4   3      6 |     64     69   7.25 |  92.75 |   OPTIMAL     0.67
+------------------------------------------------------------------------------
+greedy optimal in 0/1 cases | min true efficiency 92.75% | mean 92.75%
+[total wall time] 0.94s
+************************************************************** 
+[input] p=30 q=36 r=3.0 n=60 c=100   scenario=simplified
+[geometry] candidate positions: 1822 raw -> 495 kept   (0.10s)
+[geometry] reachable critical squares: 93/100   (unreachable: 7)
+[geometry] Section 5.1 single-interval assumption: holds (1021 observable route/square pairs)
+
+  m   k budget | greedy  exact   gap% |   eff% |    status  time(s)
+------------------------------------------------------------------------------
+  3   3      6 |     74     75   1.33 |  98.67 |   OPTIMAL     0.27
+------------------------------------------------------------------------------
+greedy optimal in 0/1 cases | min true efficiency 98.67% | mean 98.67%
+[total wall time] 0.57s
+************************************************************** 
+[input] p=30 q=36 r=1.0 n=60 c=200   scenario=simplified
+[geometry] candidate positions: 1847 raw -> 603 kept   (0.20s)
+[geometry] reachable critical squares: 160/200   (unreachable: 40)
+[geometry] Section 5.1 single-interval assumption: holds (1000 observable route/square pairs)
+
+  m   k budget | greedy  exact   gap% |   eff% |    status  time(s)
+------------------------------------------------------------------------------
+  5   7     14 |    112    112   0.00 | 100.00 |   OPTIMAL     0.25
+------------------------------------------------------------------------------
+greedy optimal in 1/1 cases | min true efficiency 100.00% | mean 100.00%
+[total wall time] 0.74s
+************************************************************** 
+[input] p=30 q=36 r=2.0 n=60 c=200   scenario=simplified
+[geometry] candidate positions: 2502 raw -> 692 kept   (0.22s)
+[geometry] reachable critical squares: 173/200   (unreachable: 27)
+[geometry] Section 5.1 single-interval assumption: holds (1390 observable route/square pairs)
+
+  m   k budget | greedy  exact   gap% |   eff% |    status  time(s)
+------------------------------------------------------------------------------
+  3   6     12 |    120    120   0.00 | 100.00 |   OPTIMAL     0.51
+------------------------------------------------------------------------------
+greedy optimal in 1/1 cases | min true efficiency 100.00% | mean 100.00%
+[total wall time] 1.06s
+************************************************************** 
+[input] p=30 q=36 r=3.0 n=60 c=200   scenario=simplified
+[geometry] candidate positions: 3750 raw -> 888 kept   (0.26s)
+[geometry] reachable critical squares: 183/200   (unreachable: 17)
+[geometry] Section 5.1 single-interval assumption: holds (2165 observable route/square pairs)
+
+  m   k budget | greedy  exact   gap% |   eff% |    status  time(s)
+------------------------------------------------------------------------------
+  6   1      2 |    129    131   1.53 |  98.47 |   OPTIMAL     0.33
+------------------------------------------------------------------------------
+greedy optimal in 0/1 cases | min true efficiency 98.47% | mean 98.47%
+[total wall time] 0.99s
+************************************************************** 
+[input] p=30 q=36 r=1.0 n=60 c=400   scenario=simplified
+[geometry] candidate positions: 3560 raw -> 1119 kept   (0.50s)
+[geometry] reachable critical squares: 326/400   (unreachable: 74)
+[geometry] Section 5.1 single-interval assumption: holds (1966 observable route/square pairs)
+
+  m   k budget | greedy  exact   gap% |   eff% |    status  time(s)
+------------------------------------------------------------------------------
+  6   8     16 |    239    242   1.24 |  98.76 |   OPTIMAL     5.96
+------------------------------------------------------------------------------
+greedy optimal in 0/1 cases | min true efficiency 98.76% | mean 98.76%
+[total wall time] 7.27s
+************************************************************** 
+[input] p=30 q=36 r=2.0 n=60 c=400   scenario=simplified
+[geometry] candidate positions: 4625 raw -> 1149 kept   (0.57s)
+[geometry] reachable critical squares: 342/400   (unreachable: 58)
+[geometry] Section 5.1 single-interval assumption: holds (2702 observable route/square pairs)
+
+  m   k budget | greedy  exact   gap% |   eff% |    status  time(s)
+------------------------------------------------------------------------------
+  4   3      6 |    234    252   7.14 |  92.86 |   OPTIMAL     3.91
+------------------------------------------------------------------------------
+greedy optimal in 0/1 cases | min true efficiency 92.86% | mean 92.86%
+[total wall time] 5.17s
+************************************************************** 
+[input] p=30 q=36 r=3.0 n=60 c=400   scenario=simplified
+[geometry] candidate positions: 7117 raw -> 1710 kept   (0.74s)
+[geometry] reachable critical squares: 370/400   (unreachable: 30)
+[geometry] Section 5.1 single-interval assumption: holds (4286 observable route/square pairs)
+
+  m   k budget | greedy  exact   gap% |   eff% |    status  time(s)
+------------------------------------------------------------------------------
+  4   2      4 |    261    278   6.12 |  93.88 |   OPTIMAL     5.28
+------------------------------------------------------------------------------
+greedy optimal in 0/1 cases | min true efficiency 93.88% | mean 93.88%
+[total wall time] 6.94s
+************************************************************** 
+[input] p=42 q=50 r=1.0 n=60 c=25   scenario=simplified
+[geometry] candidate positions: 189 raw -> 87 kept   (0.02s)
+[geometry] reachable critical squares: 19/25   (unreachable: 6)
+[geometry] Section 5.1 single-interval assumption: holds (95 observable route/square pairs)
+
+  m   k budget | greedy  exact   gap% |   eff% |    status  time(s)
+------------------------------------------------------------------------------
+  4   3      6 |     14     15   6.67 |  93.33 |   OPTIMAL     0.02
+------------------------------------------------------------------------------
+greedy optimal in 0/1 cases | min true efficiency 93.33% | mean 93.33%
+[total wall time] 0.08s
+************************************************************** 
+[input] p=42 q=50 r=2.0 n=60 c=25   scenario=simplified
+[geometry] candidate positions: 326 raw -> 147 kept   (0.02s)
+[geometry] reachable critical squares: 22/25   (unreachable: 3)
+[geometry] Section 5.1 single-interval assumption: holds (163 observable route/square pairs)
+
+  m   k budget | greedy  exact   gap% |   eff% |    status  time(s)
+------------------------------------------------------------------------------
+  7   1      2 |     17     17   0.00 | 100.00 |   OPTIMAL     0.02
+------------------------------------------------------------------------------
+greedy optimal in 1/1 cases | min true efficiency 100.00% | mean 100.00%
+[total wall time] 0.09s
+************************************************************** 
+[input] p=42 q=50 r=3.0 n=60 c=25   scenario=simplified
+[geometry] candidate positions: 468 raw -> 150 kept   (0.02s)
+[geometry] reachable critical squares: 22/25   (unreachable: 3)
+[geometry] Section 5.1 single-interval assumption: holds (244 observable route/square pairs)
+
+  m   k budget | greedy  exact   gap% |   eff% |    status  time(s)
+------------------------------------------------------------------------------
+  4   1      2 |     17     18   5.56 |  94.44 |   OPTIMAL     0.03
+------------------------------------------------------------------------------
+greedy optimal in 0/1 cases | min true efficiency 94.44% | mean 94.44%
+[total wall time] 0.11s
+************************************************************** 
+[input] p=42 q=50 r=1.0 n=60 c=50   scenario=simplified
+[geometry] candidate positions: 316 raw -> 142 kept   (0.04s)
+[geometry] reachable critical squares: 34/50   (unreachable: 16)
+[geometry] Section 5.1 single-interval assumption: holds (158 observable route/square pairs)
+
+  m   k budget | greedy  exact   gap% |   eff% |    status  time(s)
+------------------------------------------------------------------------------
+  7   2      4 |     25     27   7.41 |  92.59 |   OPTIMAL     0.03
+------------------------------------------------------------------------------
+greedy optimal in 0/1 cases | min true efficiency 92.59% | mean 92.59%
+[total wall time] 0.13s
+************************************************************** 
+[input] p=42 q=50 r=2.0 n=60 c=50   scenario=simplified
+[geometry] candidate positions: 721 raw -> 274 kept   (0.04s)
+[geometry] reachable critical squares: 46/50   (unreachable: 4)
+[geometry] Section 5.1 single-interval assumption: holds (379 observable route/square pairs)
+
+  m   k budget | greedy  exact   gap% |   eff% |    status  time(s)
+------------------------------------------------------------------------------
+  5   3      6 |     33     37  10.81 |  89.19 |   OPTIMAL     0.06
+------------------------------------------------------------------------------
+greedy optimal in 0/1 cases | min true efficiency 89.19% | mean 89.19%
+[total wall time] 0.19s
+************************************************************** 
+[input] p=42 q=50 r=3.0 n=60 c=50   scenario=simplified
+[geometry] candidate positions: 742 raw -> 221 kept   (0.04s)
+[geometry] reachable critical squares: 44/50   (unreachable: 6)
+[geometry] Section 5.1 single-interval assumption: holds (377 observable route/square pairs)
+
+  m   k budget | greedy  exact   gap% |   eff% |    status  time(s)
+------------------------------------------------------------------------------
+  5   1      2 |     30     31   3.23 |  96.77 |   OPTIMAL     0.03
+------------------------------------------------------------------------------
+greedy optimal in 0/1 cases | min true efficiency 96.77% | mean 96.77%
+[total wall time] 0.16s
+************************************************************** 
+[input] p=42 q=50 r=1.0 n=60 c=100   scenario=simplified
+[geometry] candidate positions: 699 raw -> 279 kept   (0.08s)
+[geometry] reachable critical squares: 71/100   (unreachable: 29)
+[geometry] Section 5.1 single-interval assumption: holds (358 observable route/square pairs)
+
+  m   k budget | greedy  exact   gap% |   eff% |    status  time(s)
+------------------------------------------------------------------------------
+  6   5     10 |     49     49   0.00 | 100.00 |   OPTIMAL     0.02
+------------------------------------------------------------------------------
+greedy optimal in 1/1 cases | min true efficiency 100.00% | mean 100.00%
+[total wall time] 0.23s
+************************************************************** 
+[input] p=42 q=50 r=2.0 n=60 c=100   scenario=simplified
+[geometry] candidate positions: 1208 raw -> 380 kept   (0.09s)
+[geometry] reachable critical squares: 83/100   (unreachable: 17)
+[geometry] Section 5.1 single-interval assumption: holds (618 observable route/square pairs)
+
+  m   k budget | greedy  exact   gap% |   eff% |    status  time(s)
+------------------------------------------------------------------------------
+  5   4      8 |     62     63   1.59 |  98.41 |   OPTIMAL     0.26
+------------------------------------------------------------------------------
+greedy optimal in 0/1 cases | min true efficiency 98.41% | mean 98.41%
+[total wall time] 0.51s
+************************************************************** 
+[input] p=42 q=50 r=3.0 n=60 c=100   scenario=simplified
+[geometry] candidate positions: 1483 raw -> 391 kept   (0.10s)
+[geometry] reachable critical squares: 87/100   (unreachable: 13)
+[geometry] Section 5.1 single-interval assumption: holds (781 observable route/square pairs)
+
+  m   k budget | greedy  exact   gap% |   eff% |    status  time(s)
+------------------------------------------------------------------------------
+  8   1      2 |     64     67   4.48 |  95.52 |   OPTIMAL     0.09
+------------------------------------------------------------------------------
+greedy optimal in 0/1 cases | min true efficiency 95.52% | mean 95.52%
+[total wall time] 0.35s
+************************************************************** 
+[input] p=42 q=50 r=1.0 n=60 c=200   scenario=simplified
+[geometry] candidate positions: 1557 raw -> 521 kept   (0.18s)
+[geometry] reachable critical squares: 160/200   (unreachable: 40)
+[geometry] Section 5.1 single-interval assumption: holds (818 observable route/square pairs)
+
+  m   k budget | greedy  exact   gap% |   eff% |    status  time(s)
+------------------------------------------------------------------------------
+  9   3      6 |    106    113   6.19 |  93.81 |   OPTIMAL     0.34
+------------------------------------------------------------------------------
+greedy optimal in 0/1 cases | min true efficiency 93.81% | mean 93.81%
+[total wall time] 0.79s
+************************************************************** 
+[input] p=42 q=50 r=2.0 n=60 c=200   scenario=simplified
+[geometry] candidate positions: 2478 raw -> 698 kept   (0.22s)
+[geometry] reachable critical squares: 180/200   (unreachable: 20)
+[geometry] Section 5.1 single-interval assumption: holds (1309 observable route/square pairs)
+
+  m   k budget | greedy  exact   gap% |   eff% |    status  time(s)
+------------------------------------------------------------------------------
+  5   6     12 |    132    132   0.00 | 100.00 |   OPTIMAL     2.59
+------------------------------------------------------------------------------
+greedy optimal in 1/1 cases | min true efficiency 100.00% | mean 100.00%
+[total wall time] 3.15s
+************************************************************** 
+[input] p=42 q=50 r=3.0 n=60 c=200   scenario=simplified
+[geometry] candidate positions: 3008 raw -> 704 kept   (0.24s)
+[geometry] reachable critical squares: 176/200   (unreachable: 24)
+[geometry] Section 5.1 single-interval assumption: holds (1652 observable route/square pairs)
+
+  m   k budget | greedy  exact   gap% |   eff% |    status  time(s)
+------------------------------------------------------------------------------
+  9   1      2 |    122    128   4.69 |  95.31 |   OPTIMAL     0.18
+------------------------------------------------------------------------------
+greedy optimal in 0/1 cases | min true efficiency 95.31% | mean 95.31%
+[total wall time] 0.77s
+************************************************************** 
+[input] p=42 q=50 r=1.0 n=60 c=500   scenario=simplified
+[geometry] candidate positions: 3759 raw -> 1142 kept   (0.64s)
+[geometry] reachable critical squares: 389/500   (unreachable: 111)
+[geometry] Section 5.1 single-interval assumption: holds (2057 observable route/square pairs)
+
+  m   k budget | greedy  exact   gap% |   eff% |    status  time(s)
+------------------------------------------------------------------------------
+  8  10     20 |    282    288   2.08 |  97.92 |   OPTIMAL    10.94
+------------------------------------------------------------------------------
+greedy optimal in 0/1 cases | min true efficiency 97.92% | mean 97.92%
+[total wall time] 12.66s
+************************************************************** 
+[input] p=42 q=50 r=2.0 n=60 c=500   scenario=simplified
+[geometry] candidate positions: 5696 raw -> 1557 kept   (0.79s)
+[geometry] reachable critical squares: 435/500   (unreachable: 65)
+[geometry] Section 5.1 single-interval assumption: holds (3136 observable route/square pairs)
+
+  m   k budget | greedy  exact   gap% |   eff% |    status  time(s)
+------------------------------------------------------------------------------
+ 21   1      2 |    323    329   1.82 |  98.18 |   OPTIMAL     0.67
+------------------------------------------------------------------------------
+greedy optimal in 0/1 cases | min true efficiency 98.18% | mean 98.18%
+[total wall time] 2.48s
+************************************************************** 
+[input] p=42 q=50 r=3.0 n=60 c=500   scenario=simplified
+[geometry] candidate positions: 6950 raw -> 1693 kept   (0.90s)
+[geometry] reachable critical squares: 449/500   (unreachable: 51)
+[geometry] Section 5.1 single-interval assumption: holds (3946 observable route/square pairs)
+
+  m   k budget | greedy  exact   gap% |   eff% |    status  time(s)
+------------------------------------------------------------------------------
+ 11   1      2 |    303    315   3.81 |  96.19 |   OPTIMAL     0.69
+------------------------------------------------------------------------------
+greedy optimal in 0/1 cases | min true efficiency 96.19% | mean 96.19%
+[total wall time] 2.64s
+************************************************************** 
